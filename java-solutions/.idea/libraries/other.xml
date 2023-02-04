@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="other">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/other/FastReverseHexDec2Test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/other/WsppTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
